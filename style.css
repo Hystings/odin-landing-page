@@ -1,0 +1,16 @@
+.banner, .footer {
+    background-color: #1F2937;
+}
+.hero h1{
+    font-size: 48px;
+    font-weight:bolder;
+    color:#F9FAF8;
+}
+.hero p, .header-links {
+    font-size:18px;
+    color:#E5E7EB;
+}
+.header-logo {
+    font-size:24px;
+    color:#F9FAF8;
+}
